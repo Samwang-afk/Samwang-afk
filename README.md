@@ -35,7 +35,7 @@ I'm an independent builder working across hardware, embedded systems, AI product
 
 </div>
 <div align="center">
-<img src="https://ghstats.dev/api/langs?username=octocat&max_langs=12&layout=horizontal_list" alt="Top Languages" />
+<img src="https://ghstats.dev/api/langs?username=Samwang-afk&max_langs=12&layout=horizontal_list" alt="Top Languages" />
 </div>
 ## Featured Projects
 
