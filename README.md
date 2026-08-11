@@ -34,9 +34,13 @@ I'm an independent builder working across hardware, embedded systems, AI product
 `ESP32` · `MicroPython` · `KiCad` · `Fusion 360` · `OpenCode` · `Rapid Prototyping`
 
 </div>
+
+
 <div align="center">
 <img src="https://ghstats.dev/api/langs?username=Samwang-afk&max_langs=12&layout=horizontal_list" alt="Top Languages" />
 </div>
+
+
 ## Featured Projects
 
 | Project | What it is | Built with |
