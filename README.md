@@ -25,7 +25,7 @@ I'm an independent builder working across hardware, embedded systems, AI product
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,react,nextjs,tailwind,bun,fastapi,nodejs,postgres,sqlite,arduino,figma,git,github,vscode&perline=9" alt="Python, TypeScript, JavaScript, C++, React, Next.js, Tailwind CSS, Bun, FastAPI, Node.js, PostgreSQL, SQLite, Arduino, Figma, Git, GitHub, and VS Code" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,react,nextjs,tailwind,bun,fastapi,nodejs,postgres,sqlite,arduino,figma,git,github,vscode&perline=9" alt="Python, TypeScript, JavaScript, C++, React, Next.js, Tailwind CSS, Bun, FastAPI, Node.js, Git, GitHub, and VS Code" />
   </a>
 </div>
 
