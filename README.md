@@ -8,7 +8,7 @@
 
 *I build things from circuits to interfaces.*
 
-📍 Shenzhen, Guangdong, China · 😎 ESFP · 25% E · 75% P
+📍 Shenzhen, Guangdong, China  😎 ESFP · 25% E + 75% P
 
 </div>
 
