@@ -13,7 +13,7 @@
 </div>
 
 ```bash
-$ curl api.ai/v1/decision \
+$ curl openrouter.ai/v1/chat/completions \
   -d '{"question":"why does this work?"}'
 
 {
