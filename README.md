@@ -26,7 +26,7 @@ $ curl api.ai/v1/decision \
 1. bugs written by me
 2. bugs written by the agent
 
-*both somehow end up in production.*
+They somehow works, then we call it a feature.
 
 ## About Me
 
