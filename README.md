@@ -1,10 +1,16 @@
+<div align="center">
+
 # Hi, I'm Sam 👋
 
 ### Co-founder @ Ludus & Primitive Systems
 
 **Hardware + Full-stack w/oc + UI/UX Design**
 
-I build things from circuits to interfaces — usually with an agent somewhere in the loop.
+*I build things from circuits to interfaces.*
+
+📍 Shenzhen, Guangdong, China  😎 ESFP · 25% E + 75% P
+
+</div>
 
 ```bash
 $ curl api.ai/v1/decision \
@@ -15,18 +21,12 @@ $ curl api.ai/v1/decision \
 }
 ```
 
-```python
-# There are 2 types of bugs:
-#
-# 1. bugs written by me
-# 2. bugs written by the agent
-#
-# both somehow end up in production.
-```
+### There are 2 types of bugs:
 
-*master of all bugs, victim of all environments.*
+1. bugs written by me
+2. bugs written by the agent
 
-📍 Shenzhen, Guangdong, China  😎 ESFP · 25% E + 75% P
+*both somehow end up in production.*
 
 ## About Me
 
