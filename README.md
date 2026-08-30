@@ -32,24 +32,9 @@ They somehow works, then we call it a feature.
 
 I'm an independent builder working across hardware, embedded systems, AI products, and interface design.
 
-- 🧙 Independent developer, full-stack builder, and hardware engineer
-- 💡 OpenCode, product design, ESP32/Arduino, and rapid prototyping
-- 🔧 I follow problems across layers—from sensors and firmware to APIs and pixels
-- 🚀 I turn ideas into working prototypes, then improve them through real-world testing
-
-## Tech Stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,react,nextjs,tailwind,bun,fastapi,nodejs,postgres,sqlite,arduino,figma,git,github,vscode&perline=9" alt="Python, TypeScript, JavaScript, C++, React, Next.js, Tailwind CSS, Bun, FastAPI, Node.js, Git, GitHub, and VS Code" />
-  </a>
-</div>
-
-<div align="center">
-
-`ESP32` · `MicroPython` · `KiCad` · `Fusion 360` · `OpenCode` · `Rapid Prototyping`
-
-</div>
+- Independent developer, full-stack builder, and hardware engineer
+- OpenCode, product design, ESP32/Arduino, and rapid prototyping
+- I follow problems across layers—from sensors and firmware to APIs and pixels
 
 
 <div align="center">
