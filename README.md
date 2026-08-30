@@ -2,7 +2,7 @@
 
 # Hi, I'm Sam 👋
 
-### Co-founder @ Ludus & Primitive
+### Co-founder @ Ludus & Primitive Systems
 
 **Hardware + Full-stack w/oc + UI/UX Design**
 
