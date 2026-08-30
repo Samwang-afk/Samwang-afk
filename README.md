@@ -2,7 +2,7 @@
 
 # Hi, I'm Sam 👋
 
-### Co-founder @ Ludus & Offset Studio
+### Co-founder @ Ludus & Primitive
 
 **Hardware + OpenCode Full-stack + UI/UX Design**
 
