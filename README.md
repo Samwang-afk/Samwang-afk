@@ -4,7 +4,7 @@
 
 ### Co-founder @ Ludus & Primitive
 
-**Hardware + OpenCode*Full-stack + UI/UX Design**
+**Hardware + Full-stack w/oc + UI/UX Design**
 
 *I build things from circuits to interfaces.*
 
